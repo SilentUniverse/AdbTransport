@@ -1,6 +1,6 @@
 # ADB Transport - Android语音测试通信应用
 
-这是一个基于ADB端口转发的Android语音测试通信应用，灵感来源于uiautomator2项目。该应用集成了语音测试SDK，可以让PC端通过ADB端口转发与Android设备进行语音测试相关的双向通信。
+这是一个基于ADB端口转发的Android语音测试通信应用，该应用集成了语音测试SDK(假)，可以让PC端通过ADB端口转发与Android设备进行语音测试相关的双向通信。
 
 ## 功能特性
 
