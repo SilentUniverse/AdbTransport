@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdbTransport</string>
+
+    <!-- 状态显示字符串 -->
+    <string name="server_status_format">服务器状态: %s</string>
+    <string name="server_running">运行中</string>
+    <string name="server_stopped">已停止</string>
+    <string name="connection_count_format">连接数: %d</string>
+    <string name="voice_sdk_status_format">语音测试SDK状态: %s</string>
+    <string name="voice_sdk_initialized">已初始化</string>
+    <string name="voice_sdk_not_initialized">未初始化</string>
+</resources>
